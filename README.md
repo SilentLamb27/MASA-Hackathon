@@ -63,12 +63,18 @@ Dashboard includes:
 - 2024 GHG prediction view with model-fit metrics
 - downloadable filtered CSV outputs
 
-## Report Generation
-```bash
-python generate_final_report.py
-```
-Expected output:
-- `MASA_Final_Report.pdf`
+## Deploy Streamlit
+Recommended option: **Streamlit Community Cloud**.
+
+1. Push this repo to GitHub.
+2. Open Streamlit Community Cloud and create a new app from the GitHub repo.
+3. Set the main file path to `streamlit_app.py`.
+4. Confirm `requirements.txt` is detected automatically.
+5. Deploy.
+
+Notes:
+- `WB_WDI_WIDEF.csv` is intentionally excluded from the deployed app because it is oversized and not used by `streamlit_app.py`.
+- Keep the four smaller CSV inputs in the repo: `powerbi_fact_climate_indicators.csv`, `powerbi_fact_disasters.csv`, `powerbi_fact_stress_test.csv`, and `ghg_2024_prediction.csv`.
 
 ## Preliminary Submission Checklist
 Based on provided criteria:
