@@ -75,7 +75,6 @@ Recommended option: **Streamlit Community Cloud**.
 Notes:
 - `WB_WDI_WIDEF.csv` is intentionally excluded from the deployed app because it is oversized and not used by `streamlit_app.py`.
 - Keep the four smaller CSV inputs in the repo: `powerbi_fact_climate_indicators.csv`, `powerbi_fact_disasters.csv`, `powerbi_fact_stress_test.csv`, and `ghg_2024_prediction.csv`.
-
 ## Preliminary Submission Checklist
 Based on provided criteria:
 - Single PDF report in English (`<=10` pages body; formatting-compliant)
