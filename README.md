@@ -63,13 +63,6 @@ Dashboard includes:
 - 2024 GHG prediction view with model-fit metrics
 - downloadable filtered CSV outputs
 
-## Report Generation
-```bash
-python generate_final_report.py
-```
-Expected output:
-- `MASA_Final_Report.pdf`
-
 ## Preliminary Submission Checklist
 Based on provided criteria:
 - Single PDF report in English (`<=10` pages body; formatting-compliant)
