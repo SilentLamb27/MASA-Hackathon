@@ -1,0 +1,3 @@
+country,year,baseline_damage_kusd_2030,stress_multiplier,stressed_damage_kusd_2030,incremental_kusd,odm_exposure_index,odm_weighted_multiplier,stressed_damage_kusd_2030_odm_weighted,incremental_kusd_odm_weighted,population_exposure_multiplier,population_adjusted_damage_kusd
+Malaysia,2019,97000.0,1.2,116400.0,19400.0,0.0,1.0,116400.0,19400.0,1.9,221160.0
+Vietnam,2019,62000.0,1.3,80600.0,18600.0,0.1057150225,1.1057150225,89120.6308135,27120.6308135,1.9,153140.0

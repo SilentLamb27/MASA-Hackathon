@@ -1,0 +1,7 @@
+section,item
+limitation,Residual missingness in some WDI indicators and EM-DAT loss fields.
+limitation,Simple trend model for 2024 GHG may miss non-linear policy/economic shifts.
+limitation,Stress multipliers are scenario assumptions and should be calibrated with richer exposure data.
+recommendation,Adopt a fixed high-completeness indicator basket with quarterly QA checks.
+recommendation,Integrate asset-level exposure maps for country-peril underwriting decisions.
+recommendation,Run scenario ensembles and map outputs to pricing and reinsurance decisions.

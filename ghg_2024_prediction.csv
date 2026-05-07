@@ -1,0 +1,3 @@
+country,target_indicator,last_observed_year,predicted_2024,trend_slope_per_year,fit_mae,fit_rmse,fit_r2
+Malaysia,Total greenhouse gas emissions including LULUCF (Mt CO2e),2019,101.18676060606049,4.91100848484864,17.586999151515293,20.22194854560291,0.327312541505804
+Vietnam,Total greenhouse gas emissions including LULUCF (Mt CO2e),2019,496.4534303030232,19.585604242423976,20.261147999998933,23.2848510869361,0.8537345104601148

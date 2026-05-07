@@ -1,0 +1,382 @@
+Country,DisasterType,Year,Deaths,Affected
+Viet Nam,Storm,1952,,
+Viet Nam,Storm,1953,1000.0,
+Viet Nam,Storm,1956,56.0,
+Viet Nam,Storm,1964,7000.0,700000.0
+Viet Nam,Flood,1964,400.0,
+Malaysia,Flood,1965,6.0,300000.0
+Viet Nam,Flood,1966,31.0,195902.0
+Malaysia,Flood,1967,50.0,140000.0
+Malaysia,Storm,1968,21.0,10000.0
+Viet Nam,Flood,1970,237.0,204000.0
+Malaysia,Flood,1970,61.0,243000.0
+Viet Nam,Storm,1971,23.0,50000.0
+Viet Nam,Storm,1973,100.0,150000.0
+Viet Nam,Storm,1977,,1000.0
+Viet Nam,Flood,1978,74.0,4079000.0
+Malaysia,Flood,1978,,3000.0
+Viet Nam,Storm,1980,132.0,6624710.0
+Viet Nam,Storm,1980,176.0,9027174.0
+Viet Nam,Flood,1980,94.0,628000.0
+Viet Nam,Storm,1982,70.0,1300290.0
+Viet Nam,Storm,1983,76.0,
+Viet Nam,Storm,1983,578.0,845324.0
+Malaysia,Flood,1983,10.0,15000.0
+Viet Nam,Storm,1983,80.0,336544.0
+Viet Nam,Storm,1984,21.0,1094.0
+Viet Nam,Flood,1984,33.0,38000.0
+Viet Nam,Storm,1984,134.0,650705.0
+Viet Nam,Flood,1985,93.0,2800000.0
+Viet Nam,Storm,1985,798.0,450257.0
+Viet Nam,Storm,1986,435.0,2502502.0
+Malaysia,Flood,1986,11.0,25000.0
+Viet Nam,Flood,1986,165.0,
+Viet Nam,Storm,1987,101.0,937011.0
+Malaysia,Flood,1987,3.0,2576.0
+Viet Nam,Storm,1987,22.0,
+Viet Nam,Drought,1987,,
+Viet Nam,Storm,1988,137.0,600000.0
+Viet Nam,Storm,1988,20.0,720000.0
+Malaysia,Flood,1988,27.0,60000.0
+Viet Nam,Storm,1989,104.0,1445491.0
+Viet Nam,Storm,1989,104.0,4635762.0
+Viet Nam,Storm,1989,751.0,336106.0
+Viet Nam,Flood,1990,82.0,10200.0
+Viet Nam,Storm,1990,19.0,500108.0
+Viet Nam,Storm,1990,68.0,
+Viet Nam,Storm,1990,15.0,2000.0
+Viet Nam,Storm,1991,17.0,455921.0
+Viet Nam,Flood,1991,21.0,270600.0
+Viet Nam,Flood,1991,38.0,4014.0
+Viet Nam,Storm,1991,251.0,10200.0
+Viet Nam,Flood,1991,136.0,21000.0
+Viet Nam,Storm,1991,8.0,10708.0
+Viet Nam,Storm,1991,21.0,776.0
+Viet Nam,Storm,1992,14.0,47186.0
+Viet Nam,Storm,1992,17.0,32172.0
+Viet Nam,Flood,1992,55.0,51698.0
+Viet Nam,Flood,1992,1.0,58000.0
+Viet Nam,Mass movement (wet),1992,200.0,38000.0
+Viet Nam,Storm,1993,130.0,11506.0
+Viet Nam,Storm,1993,3.0,2016.0
+Viet Nam,Flood,1993,64.0,15000.0
+Viet Nam,Storm,1993,73.0,25235.0
+Malaysia,Flood,1993,30.0,25000.0
+Viet Nam,Mass movement (wet),1994,21.0,1034.0
+Viet Nam,Flood,1994,310.0,382000.0
+Viet Nam,Storm,1994,30.0,11000.0
+Malaysia,Mass movement (wet),1995,20.0,23.0
+Viet Nam,Flood,1995,253.0,400000.0
+Viet Nam,Storm,1995,16.0,23051.0
+Malaysia,Wildfire,1995,,3000.0
+Viet Nam,Storm,1996,585.0,387091.0
+Malaysia,Mass movement (wet),1996,50.0,262.0
+Viet Nam,Storm,1996,1.0,
+Viet Nam,Storm,1996,9.0,280000.0
+Viet Nam,Flood,1996,162.0,375000.0
+Malaysia,Storm,1996,270.0,4176.0
+Malaysia,Flood,1996,,418.0
+Viet Nam,Flood,1996,60.0,
+Viet Nam,Storm,1996,194.0,
+Viet Nam,Storm,1997,,
+Malaysia,Wildfire,1997,,
+Viet Nam,Storm,1997,3682.0,1081127.0
+Viet Nam,Storm,1997,10.0,50.0
+Malaysia,Storm,1997,2.0,2115.0
+Viet Nam,Drought,1997,,3000000.0
+Malaysia,Wildfire,1998,,
+Viet Nam,Storm,1998,42.0,500.0
+Viet Nam,Flood,1998,45.0,32505.0
+Malaysia,Flood,1998,,2500.0
+Viet Nam,Storm,1998,283.0,2440092.0
+Viet Nam,Storm,1998,43.0,84645.0
+Malaysia,Drought,1998,,5000.0
+Malaysia,Flood,1999,1.0,2000.0
+Viet Nam,Flood,1999,40.0,115175.0
+Viet Nam,Flood,1999,622.0,3504412.0
+Viet Nam,Flood,1999,127.0,2163694.0
+Viet Nam,Storm,1999,10.0,
+Viet Nam,Drought,1999,,1400000.0
+Viet Nam,Mass movement (wet),2000,40.0,17.0
+Malaysia,Flood,2023,2.0,25676.0
+Malaysia,Mass movement (wet),2022,33.0,94.0
+Malaysia,Flood,2001,,200.0
+Malaysia,Flood,2020,,9273.0
+Malaysia,Flood,2018,2.0,12000.0
+Malaysia,Flood,2004,3.0,6900.0
+Malaysia,Flood,2025,,11071.0
+Viet Nam,Flood,2025,14.0,110.0
+Viet Nam,Storm,2025,8.0,1500012.0
+Viet Nam,Storm,2025,20.0,93516.0
+Malaysia,Storm,2004,1.0,40000.0
+Viet Nam,Storm,2025,57.0,588413.0
+Viet Nam,Flood,2018,33.0,16728.0
+Viet Nam,Flood,2005,,593.0
+Viet Nam,Storm,2026,4.0,26300.0
+Viet Nam,Storm,2018,34.0,96000.0
+Viet Nam,Storm,1971,100.0,200000.0
+Viet Nam,Storm,2026,2.0,21800.0
+Viet Nam,Storm,1970,30.0,
+Malaysia,Flood,2018,,4900.0
+Viet Nam,Storm,2018,1.0,
+Viet Nam,Storm,2020,1.0,4.0
+Viet Nam,Storm,2021,,1000.0
+Viet Nam,Storm,2021,2.0,310.0
+Viet Nam,Storm,2000,,503.0
+Viet Nam,Storm,2000,,134.0
+Malaysia,Flood,2023,,11000.0
+Malaysia,Flood,2023,4.0,46630.0
+Viet Nam,Flood,2023,,6540.0
+Viet Nam,Storm,2023,1.0,3.0
+Viet Nam,Flood,2023,7.0,2175.0
+Viet Nam,Flood,2023,15.0,214535.0
+Viet Nam,Flood,2023,2.0,1900.0
+Malaysia,Flood,2023,,881.0
+Viet Nam,Storm,2023,5.0,80000.0
+Viet Nam,Storm,2024,1.0,8320.0
+Viet Nam,Extreme temperature,2024,,
+Viet Nam,Storm,2024,3.0,2128.0
+Viet Nam,Flood,2024,3.0,9628.0
+Viet Nam,Storm,2024,7.0,401.0
+Viet Nam,Mass movement (wet),2024,11.0,234.0
+Viet Nam,Storm,2024,345.0,3601978.0
+Viet Nam,Storm,2024,3.0,1850.0
+Viet Nam,Storm,2024,6.0,143429.0
+Viet Nam,Drought,2024,,266000.0
+Malaysia,Flood,2025,5.0,12500.0
+Malaysia,Flood,2025,,251.0
+Malaysia,Flood,2025,,4555.0
+Viet Nam,Storm,2025,3.0,325.0
+Viet Nam,Storm,2025,2.0,179.0
+Viet Nam,Storm,2025,9.0,17500.0
+Viet Nam,Storm,2025,2.0,3973.0
+Viet Nam,Flood,2025,3.0,690.0
+Malaysia,Flood,2025,13.0,3134.0
+Viet Nam,Storm,2025,13.0,65000.0
+Viet Nam,Storm,2025,1.0,696.0
+Viet Nam,Storm,2025,10.0,414954.0
+Viet Nam,Storm,2025,8.0,11407.0
+Viet Nam,Storm,2025,108.0,808603.0
+Malaysia,Flood,2025,3.0,18700.0
+Malaysia,Flood,2025,,2103.0
+Viet Nam,Flood,2018,20.0,6000.0
+Viet Nam,Flood,2019,3.0,26255.0
+Viet Nam,Storm,2019,1.0,20014.0
+Viet Nam,Drought,2019,,685558.0
+Malaysia,Flood,2022,3.0,228.0
+Viet Nam,Storm,2020,5.0,4652.0
+Malaysia,Flood,2020,,2000.0
+Viet Nam,Storm,2020,243.0,1500000.0
+Malaysia,Flood,2020,,400.0
+Malaysia,Flood,2021,,6000.0
+Malaysia,Flood,2021,8.0,23776.0
+Viet Nam,Storm,2021,1.0,750.0
+Malaysia,Flood,2022,,1290.0
+Viet Nam,Flood,2022,5.0,10495.0
+Viet Nam,Storm,2022,9.0,500.0
+Viet Nam,Storm,2000,15.0,4.0
+Viet Nam,Flood,2000,36.0,25003.0
+Malaysia,Flood,2001,,5000.0
+Malaysia,Flood,2001,11.0,18000.0
+Viet Nam,Wildfire,2002,,
+Viet Nam,Storm,2003,,5018.0
+Malaysia,Flood,2003,,2000.0
+Malaysia,Storm,2004,,1000.0
+Malaysia,Flood,2005,4.0,600.0
+Malaysia,Flood,2005,9.0,30000.0
+Malaysia,Flood,2006,,500.0
+Malaysia,Flood,2007,17.0,137533.0
+Viet Nam,Flood,2008,4.0,500.0
+Viet Nam,Storm,2008,11.0,
+Viet Nam,Storm,2009,,
+Viet Nam,Storm,2009,124.0,500145.0
+Malaysia,Mass movement (wet),2011,16.0,6.0
+Viet Nam,Flood,2011,85.0,600000.0
+Viet Nam,Storm,2013,31.0,1835585.0
+Malaysia,Drought,2014,,2200000.0
+Viet Nam,Storm,2015,7.0,115.0
+Malaysia,Flood,2015,1.0,3000.0
+Viet Nam,Flood,2015,2.0,100.0
+Viet Nam,Storm,2016,1.0,191750.0
+Malaysia,Flood,2016,,25000.0
+Viet Nam,Flood,2017,14.0,400.0
+Viet Nam,Storm,2017,9.0,21000.0
+Viet Nam,Flood,2017,39.0,4161.0
+Viet Nam,Storm,2017,14.0,692012.0
+Viet Nam,Flood,2019,12.0,61540.0
+Malaysia,Flood,2020,,9000.0
+Malaysia,Flood,2020,,1210.0
+Malaysia,Flood,2021,6.0,3000.0
+Viet Nam,Flood,2000,460.0,5000004.0
+Malaysia,Storm,2000,,500.0
+Malaysia,Flood,2000,12.0,8000.0
+Malaysia,Mass movement (wet),2002,10.0,
+Malaysia,Storm,2002,2.0,155.0
+Viet Nam,Flood,2002,55.0,291616.0
+Viet Nam,Flood,2002,82.0,1138200.0
+Viet Nam,Flood,2003,52.0,221774.0
+Viet Nam,Flood,2004,53.0,18.0
+Viet Nam,Mass movement (wet),2004,23.0,
+Viet Nam,Storm,2014,,750.0
+Viet Nam,Flood,2005,17.0,10000.0
+Viet Nam,Flood,2005,67.0,33800.0
+Viet Nam,Flood,2005,69.0,18000.0
+Viet Nam,Drought,2005,,410000.0
+Malaysia,Flood,2006,,1112.0
+Malaysia,Flood,2006,,4906.0
+Viet Nam,Flood,2006,42.0,50020.0
+Malaysia,Flood,2006,6.0,100000.0
+Viet Nam,Flood,2007,83.0,94042.0
+Viet Nam,Flood,2007,55.0,150000.0
+Viet Nam,Storm,2008,46.0,58511.0
+Viet Nam,Storm,2008,17.0,8828.0
+Viet Nam,Flood,2008,9.0,20000.0
+Viet Nam,Flood,2009,20.0,700000.0
+Viet Nam,Mass movement (wet),2009,13.0,1.0
+Malaysia,Flood,2009,,1793.0
+Viet Nam,Storm,2010,14.0,20700.0
+Viet Nam,Flood,2010,84.0,679825.0
+Malaysia,Flood,2011,2.0,20000.0
+Viet Nam,Storm,2011,16.0,63.0
+Viet Nam,Flood,2013,5.0,5000.0
+Viet Nam,Flood,2013,29.0,1000.0
+Viet Nam,Storm,2013,20.0,109754.0
+Malaysia,Flood,2013,4.0,75000.0
+Malaysia,Flood,2016,,441.0
+Viet Nam,Storm,2016,11.0,11090.0
+Malaysia,Flood,2016,,400.0
+Viet Nam,Flood,2016,8.0,509.0
+Viet Nam,Flood,2017,1.0,4104.0
+Malaysia,Flood,2017,2.0,13000.0
+Malaysia,Storm,2017,,426.0
+Viet Nam,Storm,2018,13.0,50000.0
+Viet Nam,Storm,2018,19.0,10028.0
+Viet Nam,Flood,2019,3.0,265.0
+Viet Nam,Flood,2022,2.0,10000.0
+Viet Nam,Storm,2022,2.0,54412.0
+Viet Nam,Flood,2022,10.0,
+Viet Nam,Flood,2022,,226.0
+Malaysia,Flood,2021,2.0,255.0
+Malaysia,Flood,2021,7.0,4828.0
+Malaysia,Flood,2022,,3107.0
+Viet Nam,Flood,2016,35.0,659615.0
+Viet Nam,Flood,2016,27.0,562121.0
+Viet Nam,Storm,2017,1.0,1.0
+Viet Nam,Storm,2017,123.0,4330000.0
+Viet Nam,Flood,2017,8.0,41500.0
+Viet Nam,Flood,2018,14.0,105000.0
+Viet Nam,Flood,2019,19.0,1500.0
+Viet Nam,Flood,2019,10.0,36450.0
+Malaysia,Flood,2019,2.0,15000.0
+Malaysia,Flood,2019,,4065.0
+Viet Nam,Storm,2020,3.0,30013.0
+Viet Nam,Flood,2020,5.0,2621.0
+Viet Nam,Storm,2020,2.0,10000.0
+Viet Nam,Storm,2020,2.0,70780.0
+Viet Nam,Storm,2020,41.0,450000.0
+Viet Nam,Mass movement (wet),2000,33.0,22.0
+Viet Nam,Flood,2021,3.0,180.0
+Malaysia,Flood,2021,,1000.0
+Viet Nam,Flood,2021,3.0,13603.0
+Viet Nam,Flood,2021,18.0,300000.0
+Viet Nam,Storm,2021,3.0,
+Malaysia,Flood,2022,6.0,26000.0
+Viet Nam,Storm,2022,19.0,436978.0
+Malaysia,Flood,2022,8.0,60000.0
+Viet Nam,Storm,2000,3.0,129.0
+Viet Nam,Storm,2000,,2005.0
+Viet Nam,Storm,2000,,5730.0
+Viet Nam,Storm,2000,5.0,6029.0
+Viet Nam,Flood,2001,,3000.0
+Viet Nam,Storm,2001,30.0,117453.0
+Viet Nam,Flood,2001,9.0,175.0
+Viet Nam,Flood,2001,310.0,1570270.0
+Viet Nam,Storm,2001,20.0,73183.0
+Viet Nam,Flood,2002,10.0,2000.0
+Viet Nam,Drought,2002,,1300000.0
+Viet Nam,Flood,2003,61.0,194049.0
+Viet Nam,Flood,2003,15.0,1000.0
+Malaysia,Flood,2003,3.0,13800.0
+Malaysia,Flood,2004,,9138.0
+Viet Nam,Storm,2004,14.0,905.0
+Viet Nam,Flood,2004,9.0,5000.0
+Malaysia,Flood,2004,13.0,15000.0
+Viet Nam,Flood,2004,34.0,30000.0
+Malaysia,Wildfire,2005,,
+Viet Nam,Storm,2005,20.0,15000.0
+Viet Nam,Storm,2006,1.0,1005.0
+Viet Nam,Storm,2006,13.0,
+Viet Nam,Flood,2006,60.0,
+Viet Nam,Flood,2007,74.0,416130.0
+Viet Nam,Storm,2007,96.0,685430.0
+Viet Nam,Flood,2007,3.0,280000.0
+Viet Nam,Storm,2008,18.0,31680.0
+Malaysia,Flood,2008,,2000.0
+Viet Nam,Flood,2008,29.0,12004.0
+Viet Nam,Flood,2008,99.0,600000.0
+Viet Nam,Storm,2009,182.0,2477315.0
+Malaysia,Flood,2009,,9082.0
+Viet Nam,Flood,2010,50.0,10000.0
+Viet Nam,Flood,2011,24.0,300000.0
+Viet Nam,Flood,2011,13.0,461584.0
+Viet Nam,Storm,2012,17.0,60479.0
+Viet Nam,Flood,2012,34.0,17540.0
+Viet Nam,Storm,2013,16.0,13094.0
+Viet Nam,Flood,2015,32.0,15000.0
+Viet Nam,Drought,2015,,1750000.0
+Malaysia,Flood,2016,,6000.0
+Viet Nam,Storm,2010,11.0,1500.0
+Viet Nam,Storm,2010,10.0,12400.0
+Viet Nam,Flood,2010,21.0,761000.0
+Viet Nam,Flood,2010,31.0,39008.0
+Viet Nam,Storm,2011,,
+Viet Nam,Storm,2012,10.0,3.0
+Viet Nam,Storm,2012,11.0,278490.0
+Viet Nam,Flood,2013,30.0,
+Viet Nam,Flood,2013,23.0,
+Viet Nam,Storm,2013,7.0,5011.0
+Viet Nam,Flood,2013,7.0,25000.0
+Viet Nam,Flood,2013,47.0,2130001.0
+Viet Nam,Storm,2014,27.0,36000.0
+Viet Nam,Storm,2014,11.0,11325.0
+Malaysia,Flood,2014,17.0,230000.0
+Viet Nam,Storm,2015,11.0,
+Viet Nam,Storm,2016,34.0,610000.0
+Viet Nam,Storm,2016,25.0,182500.0
+Viet Nam,Flood,2016,21.0,206340.0
+Malaysia,Flood,2017,,5481.0
+Viet Nam,Flood,2017,75.0,40038.0
+Malaysia,Flood,2017,7.0,3500.0
+Malaysia,Flood,2019,,1000.0
+Malaysia,Flood,2019,,2412.0
+Viet Nam,Storm,2019,3.0,2150.0
+Viet Nam,Storm,2020,6.0,125000.0
+Viet Nam,Storm,2020,,
+Viet Nam,Storm,2020,2.0,5000.0
+Malaysia,Flood,2021,,5782.0
+Viet Nam,Storm,2021,5.0,82500.0
+Malaysia,Flood,2021,56.0,120000.0
+Viet Nam,Flood,2022,13.0,2554.0
+Malaysia,Flood,2008,,6000.0
+Viet Nam,Flood,2008,16.0,
+Viet Nam,Storm,2008,162.0,57630.0
+Malaysia,Flood,2007,29.0,29000.0
+Viet Nam,Flood,2007,15.0,22000.0
+Viet Nam,Storm,2006,95.0,1226360.0
+Viet Nam,Flood,2006,4.0,100.0
+Viet Nam,Storm,2006,71.0,1467925.0
+Viet Nam,Flood,2006,60.0,
+Viet Nam,Flood,2006,12.0,2000.0
+Viet Nam,Storm,2006,17.0,2000.0
+Viet Nam,Storm,2006,204.0,600000.0
+Viet Nam,Flood,2005,39.0,30000.0
+Viet Nam,Storm,2005,8.0,8500.0
+Viet Nam,Storm,2005,75.0,337660.0
+Viet Nam,Storm,2005,13.0,6500.0
+Viet Nam,Storm,2004,56.0,500000.0
+Malaysia,Flood,2003,5.0,3000.0
+Viet Nam,Flood,2009,17.0,40000.0
+Viet Nam,Storm,2002,,1800.0
+Viet Nam,Flood,2001,20.0,35006.0
+Malaysia,Flood,2001,,10000.0
+Viet Nam,Storm,2001,3.0,10003.0
